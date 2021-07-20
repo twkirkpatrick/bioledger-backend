@@ -1,0 +1,23 @@
+{
+  "name": "bioledger-backend",
+  "version": "1.0.0",
+  "description": "An application for tracking personal biometric data",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twkirkpatrick/bioledger-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twkirkpatrick/bioledger-backend/issues"
+  },
+  "homepage": "https://github.com/twkirkpatrick/bioledger-backend#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
